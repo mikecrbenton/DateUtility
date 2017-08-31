@@ -266,7 +266,7 @@ public class DateUtility {
      */
     
      
-     //MAIN WITH PROGRAM FOR GETDATESFORDAYOFWEEK
+     //MAIN - CURRENT CODE TO RUN calculateYears() METHOD
      
      public static void main(String[] args)throws Exception {
        
