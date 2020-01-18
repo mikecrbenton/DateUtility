@@ -1,5 +1,5 @@
 # DateUtility 
-CSC470 Software Engineering // Java Dates Class and Intro to JUnit Testing
+CSC470 Software Engineering // Java Dates Class and Intro to JUnit Testing.  Links to Classes where code was written for assignment are listed below.
 
 ### Assignment 1: Java Dates
 Create a Java project called DateUtility and an org.usd.csci.util package.  Create a Java class called DateUtility.java.  
